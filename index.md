@@ -1,9 +1,7 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 
-![Image of fast.ai logo](images/logo.png)
 
-## This is a title
+## Table of Content
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
 
-[link to project page](https://github.com/qwyeow/qwyeow.github.io/blob/master/_posts/2020-03-17-first_post.md)
+
+[AI Projects](https://qwyeow.github.io/2020/03/17/first_post.html)

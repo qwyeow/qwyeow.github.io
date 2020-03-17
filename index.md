@@ -5,3 +5,5 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 ## This is a title
 
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+
+[link to project page](https://github.com/qwyeow/qwyeow.github.io/blob/master/_posts/2020-03-17-first_post.md)

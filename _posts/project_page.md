@@ -1,11 +1,11 @@
 # AI Projects
 
 ## NLP Transformers
-1. [BERT text Binary Classification on disaster-tweet](https://github.com/qwyeow/Transformers/blob/master/BERT_fastai_BinaryLabelClassifier_DisasterTweets.ipynb) 
+1. [BERT text Binary Classification on disaster-tweet](https://github.com/qwyeow/Transformers/blob/master/BERT_fastai_BinaryLabelClassifier_DisasterTweets.ipynb): Using BERT to classify whether a disaster tweet is real or fake 
 
-2. [BERT text Multi-label Classification on Jigsaw Toxic Comment](https://github.com/qwyeow/Transformers/blob/master/BERT_fastai_MultiLabel_JigsawToxicComment.ipynb) 
+2. [BERT text Multi-label Classification on Jigsaw Toxic Comment](https://github.com/qwyeow/Transformers/blob/master/BERT_fastai_MultiLabel_JigsawToxicComment.ipynb): Using BERT to classify whether Comments are *toxic, severe_toxic, obscene, threat, insult, identity_hate*
 
-3. [Roberta text Multi-label Classification on Jigsaw Toxic Comment](https://github.com/qwyeow/Transformers/blob/master/Roberta_fastai_MultiLabel_JigsawToxicComment.ipynb) 
+3. [Roberta text Multi-label Classification on Jigsaw Toxic Comment](https://github.com/qwyeow/Transformers/blob/master/Roberta_fastai_MultiLabel_JigsawToxicComment.ipynb): Using ROBERTA to classify whether Comments are *toxic, severe_toxic, obscene, threat, insult, identity_hate*
 
 
 ## Deep Learning using Keras
@@ -23,7 +23,7 @@
 6. [lstm_iliad.ipynb](https://github.com/qwyeow/Keras/blob/master/lstm_iliad.ipynb): LSTM language model that generates Homer's Iliad.
 
 
-### Fastai deep learning 
+## Fastai deep learning 
 
 [Singapore Rare Birds Classifier](https://github.com/qwyeow/FastAI/blob/master/Singapore_Rare_Birds_Classifier-Prototype.ipynb): a prototype classifier that identifies 10 rare birds seen in Singapore, with close to 90% accuracy, using the techniques from fastai v3 course. Images are downloaded using Google Image Search. The webapp is deployed here [https://sgrarebird-gr0o.app.render.com/](https://sgrarebird-gr0o.app.render.com/). Next we extended the model (82.4% accuracy) to include all 155 rare birds and deployed it [here](https://sgrarebird155.onrender.com)
 
@@ -43,7 +43,7 @@
 
 
 
-### Simple Python Projects
+## Simple Python Projects
 
 1. unit-testing: [palindrome.py](https://github.com/qwyeow/PluralSight/blob/master/unit_test/palindrome.py) and [test_analyzer](https://github.com/qwyeow/PluralSight/blob/master/unit_test/text_analyzer.py)
 

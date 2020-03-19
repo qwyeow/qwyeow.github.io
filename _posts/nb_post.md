@@ -6,6 +6,8 @@
 
 this is a test jupyter notebook blog post.
 
+![png](/images/nb_post_files/plots.png)
+
 ```python
 arrays = [['Falcon', 'Falcon', 'Parrot', 'Parrot'],
           ['Captive', 'Wild', 'Captive', 'Wild']]

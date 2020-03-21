@@ -7,10 +7,10 @@
 
 ## Surprisal
 
-**Surprisal**: $$ - \frac{1}{log(p)} $$
+**Surprisal**: $ - \frac{1}{log(p)} $
 
 ```python
-#hide_input
+#hide
 sns.set(style="darkgrid")
 
 probability = np.arange(0.01, 1.00, 0.01)
@@ -40,4 +40,4 @@ plt.show()
 
 ## Entropy
 
-**Entropy**: $$ - \sum_{i=1}^{n} p_i \frac{1}{log(p_i)} $$
+**Entropy**: $- \sum_{i=1}^{n} p_i \frac{1}{log(p_i)}$

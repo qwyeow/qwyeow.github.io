@@ -1,0 +1,43 @@
+# Entropy
+> regarding entropy
+
+
+1. TOC
+{:toc}
+
+## Surprisal
+
+**Surprisal**: $$ - \frac{1}{log(p)} $$
+
+```python
+#hide_input
+sns.set(style="darkgrid")
+
+probability = np.arange(0.01, 1.00, 0.01)
+surprisal = -np.log2(probability)
+
+df = pd.DataFrame(dict(x=probability,y=surprisal))
+
+ax = sns.lineplot(x="x", y="y",data=df)
+ax.set(xlabel='Probability', ylabel='Surprisal')
+
+ax.annotate(
+'The sun will rise tommorow -not surprising', xy=(1.0,0), xytext=(0.6, 1),size='small',
+arrowprops=dict(facecolor='black', shrink=0.05)
+)
+
+ax.annotate(
+'The world will end tommorow - very surprising', xy=(0,6), xytext=(0.1,6),size='small',
+arrowprops=dict(facecolor='black', shrink=0.05)
+)
+
+plt.show()
+```
+
+
+![png](/images/cross_entropy_files/output_3_0.png)
+
+
+## Entropy
+
+**Entropy**: $$ - \sum_{i=1}^{n} p_i \frac{1}{log(p_i)} $$

@@ -10,7 +10,7 @@
 **Surprisal**: $ - \frac{1}{log(p)} $
 
 ```python
-#hide
+#collapse_hide
 sns.set(style="darkgrid")
 
 probability = np.arange(0.01, 1.00, 0.01)

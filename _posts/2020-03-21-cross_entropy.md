@@ -1,6 +1,11 @@
+# Title
+> summary
+
+
+```python
 # Entropy
 > regarding entropy
-
+```
 
 1. TOC
 {:toc}
@@ -35,9 +40,9 @@ plt.show()
 ```
 
 
-![png](/images/cross_entropy_files/output_3_0.png)
+![png](/images/cross_entropy_files/output_4_0.png)
 
 
 ## Entropy
 
-**Entropy**: $- \sum_{i=1}^{n} p_i \frac{1}{log(p_i)}$
+**Entropy**: $ - \sum_{i=1}^{n} p_i \frac{1}{log(p_i)} $

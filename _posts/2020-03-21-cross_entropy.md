@@ -1,14 +1,16 @@
-# Title
-> summary
-
-
-```python
 # Entropy
-> regarding entropy
-```
+> When Shannon asked von Neumann what he should call his information theory by, von Neumann said that he should call it entropy because that is what the formula is in statistical mechanises, but more important, nobody knows what entropy is!
 
-1. TOC
+
+
+__Table of Contents__
+
+* TOC
 {:toc}
+</div>
+
+</div>
+
 
 ## Surprisal
 

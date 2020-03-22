@@ -1,7 +1,8 @@
 # Entropy
 > When Shannon asked von Neumann what he should call his information theory by, von Neumann said that he should call it entropy because that is what the formula is in statistical mechanises, but more important, nobody knows what entropy is!
 
-
+<div class="row">
+<div class="col-md-6" id="mdtoc">
 
 __Table of Contents__
 
@@ -17,7 +18,6 @@ __Table of Contents__
 **Surprisal**: $ - \frac{1}{log(p)} $
 
 ```python
-#collapse_hide
 sns.set(style="darkgrid")
 
 probability = np.arange(0.01, 1.00, 0.01)
